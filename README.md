@@ -2,7 +2,7 @@
 Project_Timesheet
 
 ## Instruction
-
+สำหรับงานโปรเจค Timesheet
 
 ## HOW TO RUN PROGRAM
 ### Set Go Path
